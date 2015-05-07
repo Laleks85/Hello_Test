@@ -1,1 +1,0 @@
-cmd_examples/standalone/hello_world.bin := /opt/poky/1.6.1/sysroots/x86_64-pokysdk-linux/usr/bin/arm-poky-linux-gnueabi/arm-poky-linux-gnueabi-objcopy -O binary  examples/standalone/hello_world examples/standalone/hello_world.bin

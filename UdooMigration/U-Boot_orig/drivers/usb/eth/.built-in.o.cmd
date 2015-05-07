@@ -1,1 +1,0 @@
-cmd_drivers/usb/eth/built-in.o :=  /opt/poky/1.6.1/sysroots/x86_64-pokysdk-linux/usr/bin/arm-poky-linux-gnueabi/arm-poky-linux-gnueabi-ld.bfd     -r -o drivers/usb/eth/built-in.o drivers/usb/eth/usb_ether.o drivers/usb/eth/asix.o 
