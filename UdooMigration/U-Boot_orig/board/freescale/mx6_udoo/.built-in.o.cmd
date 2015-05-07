@@ -1,0 +1,1 @@
+cmd_board/freescale/mx6_udoo/built-in.o :=  /opt/poky/1.6.1/sysroots/x86_64-pokysdk-linux/usr/bin/arm-poky-linux-gnueabi/arm-poky-linux-gnueabi-ld.bfd     -r -o board/freescale/mx6_udoo/built-in.o board/freescale/mx6_udoo/mx6_udoo.o 

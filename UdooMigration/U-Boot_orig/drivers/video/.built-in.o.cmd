@@ -1,0 +1,1 @@
+cmd_drivers/video/built-in.o :=  /opt/poky/1.6.1/sysroots/x86_64-pokysdk-linux/usr/bin/arm-poky-linux-gnueabi/arm-poky-linux-gnueabi-ld.bfd     -r -o drivers/video/built-in.o drivers/video/cfb_console.o drivers/video/mxc_ipuv3_fb.o drivers/video/ipu_common.o drivers/video/ipu_disp.o 

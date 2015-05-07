@@ -1,0 +1,1 @@
+cmd_fs/ext4/built-in.o :=  /opt/poky/1.6.1/sysroots/x86_64-pokysdk-linux/usr/bin/arm-poky-linux-gnueabi/arm-poky-linux-gnueabi-ld.bfd     -r -o fs/ext4/built-in.o fs/ext4/ext4fs.o fs/ext4/ext4_common.o fs/ext4/dev.o 
